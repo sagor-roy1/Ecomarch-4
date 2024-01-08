@@ -414,7 +414,7 @@ header {
     width: 1920px;
     height: 927px;
     background: linear-gradient(92.21deg, #513DE8 0.99%, #8366E3 99.43%);
-    margin: 70px 0;
+    margin: 80px 0;
     align-items: center;
 }
 
@@ -561,6 +561,12 @@ header {
 
 }
 
+.section5-prent1-chaild2_1 {
+    font-size: 20px;
+    font-weight: 500;
+    color: rgba(81, 61, 232, 1);
+}
+
 .section5-prent1-chaild2-icon {
     display: flex;
     justify-content: space-between;
@@ -634,7 +640,7 @@ header {
     width: 1920px;
     height: 583px;
     background: linear-gradient(92.21deg, #513DE8 0.99%, #8366E3 99.43%);
-
+    margin-top: 50px;
 }
 
 .section6-prent {
@@ -729,6 +735,10 @@ header {
     background-image: url(img/div.elementor-background-overlay\(1\).jpg);
 }
 
+.section-7 {
+    margin-top: 80px;
+}
+
 .section7-content {
     text-align: center;
 }
@@ -820,4 +830,99 @@ header {
     font-weight: 400;
     line-height: 25.6px;
     color: white;
+}
+
+.section-8 {
+    width: 1920px;
+    height: 686px;
+    display: flex;
+    position: relative;
+    margin-top: 80px;
+}
+
+.section8-box1 {
+    width: 949.13px;
+    height: 686px;
+    background: linear-gradient(92.5deg, #513DE8 0.99%, #8366E3 99.43%);
+
+}
+
+.section8-box1-prent {
+    margin-top: 200px;
+    margin-left: 330px;
+}
+
+.section8-box1-prent h4 {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 20px;
+    color: white;
+}
+
+.section8-box1-prent h2 {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 48px;
+    color: white;
+    word-spacing: 4px;
+    letter-spacing: 1.2px;
+}
+
+.section8-box1-prent button {
+    width: 236.55px;
+    height: 59.8px;
+    border: none;
+    border-radius: 6px;
+    padding: 0 30px;
+    font-size: 18px;
+    font-weight: 400;
+    color: rgba(81, 61, 232, 1);
+}
+
+.section8-button {
+    display: flex;
+    justify-content: space-between;
+}
+
+.section8-prent-last {
+    display: flex;
+    justify-content: space-between;
+    width: 210px;
+    margin-top: 30px;
+}
+
+.section8-prent-last button {
+    width: 85px;
+    font-size: 16px;
+    font-weight: 400;
+    color: white;
+    background: none;
+    margin: 0;
+    padding: 0;
+}
+
+.section8-prent-last p {
+    font-size: 16px;
+    font-weight: 400;
+    color: white;
+}
+
+.section8-box2 {
+    width: 950.86px;
+    height: 446px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 130px;
+    position: absolute;
+    left: 800px;
+}
+
+.section8-box2 img {
+    margin: 0 20px;
+}
+
+.section8-background {
+    position: absolute;
+    top: 325px;
+    left: 20px;
 }
