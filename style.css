@@ -697,7 +697,6 @@ header {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 43px;
-
 }
 
 .section6-prent2-child {
@@ -763,7 +762,6 @@ header {
 .section7-box1-line {
     position: relative;
 }
-
 
 .section7-box1 {
     width: 227.5px;
@@ -925,4 +923,99 @@ header {
     position: absolute;
     top: 325px;
     left: 20px;
+}
+
+
+
+.section9 {
+    margin-top: 80px;
+}
+
+
+.section9-prent1 h4 {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 20px;
+    text-align: center;
+    color: rgba(131, 102, 227, 1);
+    margin-bottom: 0px;
+}
+
+.section9-prent1 h2 {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: center;
+    color: rgba(50, 63, 124, 1);
+    margin-top: 10px;
+}
+
+.section9-box1 {
+    width: 418px;
+    height: 317.5px;
+}
+
+.section9-box1-color {
+    width: 418px;
+    height: 228px;
+    background: linear-gradient(92.5deg, #513DE8 0.99%, #8366E3 99.43%);
+    border-radius: 10px;
+}
+
+.section9-box1-color-rating {
+    display: flex;
+    justify-content: space-between;
+    width: 100px;
+    height: 17.5px;
+    padding-top: 165px;
+    padding-left: 30px;
+
+}
+
+.section9-box1-color-rating p {
+    color: #FFB700;
+}
+
+.section9-box1-content {
+    display: flex;
+    margin-top: 10px;
+}
+
+.section9-box1-content p {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 16px;
+    margin-left: 60px;
+    margin-top: 40px;
+    color: rgba(96, 96, 96, 1);
+}
+
+.section9-box {
+    display: flex;
+    justify-content: space-between;
+    width: 1342px;
+
+}
+
+.section9-button {
+    margin: 40px 530px;
+}
+
+.section9-button button {
+    display: flex;
+    justify-content: space-between;
+    width: 280px;
+    height: 64px;
+    border: 2px solid rgba(230, 224, 249, 1);
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 1);
+    color: rgba(81, 61, 232, 1);
+    padding: 5px 40px;
+}
+
+.section9-button button p {
+    font-size: 18px;
+    font-weight: 400;
+
+
 }
