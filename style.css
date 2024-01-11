@@ -1019,3 +1019,33 @@ header {
 
 
 }
+
+.section9-prent2 {
+    display: flex;
+    justify-content: space-between;
+    width: 1342px;
+    margin-top: 90px;
+    margin-bottom: 10px;
+}
+
+.section9-prent2-child1 hr {
+    width: 380px;
+    height: 2px;
+    background: rgba(235, 236, 242, 1);
+    border: none;
+}
+
+.section9-prent2-child1 h4 {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 24px;
+    color: rgba(50, 63, 124, 1);
+    margin: 0;
+    padding: 0;
+}
+
+.section9-logo {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+}
