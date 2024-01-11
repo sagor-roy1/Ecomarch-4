@@ -927,7 +927,7 @@ header {
 
 
 
-.section9 {
+.section-9 {
     margin-top: 80px;
 }
 
@@ -1048,4 +1048,76 @@ header {
     display: flex;
     justify-content: space-between;
     margin: 50px;
+}
+
+.sectio-10 {
+    width: 1920px;
+    height: 1065px;
+    background: linear-gradient(92.5deg, #513DE8 0.99%, #8366E3 99.43%);
+    margin-top: 60px;
+    text-align: center;
+}
+
+.section10-prent1 {
+    margin-top: 100px;
+}
+
+.section10-prent1 h4 {
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.section10-prent1 h2 {
+    font-size: 36px;
+    font-weight: 700;
+    color: white;
+    line-height: 48px;
+    margin-top: 20px;
+}
+
+.section10-prent2 {
+    width: 1340px;
+    height: 393px;
+    margin: 30px 290px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.section10-prent2-child {
+    width: 305px;
+    height: 393px;
+
+}
+
+.section10-prent2-child h4 {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 22px;
+    color: white;
+    margin: 10px 0;
+}
+
+.section10-prent2-child p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    color: white;
+    margin-top: 20px;
+}
+
+
+.section10-prent2-child-img {
+    width: 231px;
+    height: 231px;
+    text-align: center;
+    padding: 30px 37px;
+
+}
+
+.section10-prent2-child-img img {
+    border-radius: 115px;
+    box-shadow: 4px 13px 10px 0px rgba(0, 0, 0, 0.5);
+
 }
